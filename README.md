@@ -2,11 +2,11 @@
 
 ## Screenshots
 
-<img src='' align='left' width='25%'>
+<img src='https://github.com/desteo/tickets_app/blob/main/screenshots/1.png' align='left' width='25%'>
 
-<img src='' align='left' width='25%'>
+<img src='https://github.com/desteo/tickets_app/blob/main/screenshots/2.png' align='left' width='25%'>
 
-<img src= '' width='25%'>
+<img src= 'https://github.com/desteo/tickets_app/blob/main/screenshots/3.png' width='25%'>
 
 ## Run
 
